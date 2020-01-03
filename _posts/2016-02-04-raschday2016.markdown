@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "10th Annual Rasch User Group Meeting"
+date:   2016-02-04 17:50:43 +0000
+categories: raschday
+excerpt_separator: <!--more-->
+---
+
+The 10th Annual Rasch User Group Meeting will be held in the Joachim Room, College of St. Hild and St. Bede, Durham University on Friday 18th March 2016.
+
+Tea and coffee are available from 09:30 with the opening address at 10:00.
+
+[You can register using this link...](http://www.cvent.com/d/frqdms/4W)
+
+... and you can [download the programme.]({{ site.url }}/assets/Rasch_Day_2016.pdf)
+<!--more-->
