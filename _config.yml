@@ -19,3 +19,4 @@ paginate: 2
 
 gems:
   - jekyll-paginate
+  - github-pages
